@@ -3,14 +3,14 @@
     Harvest Moon ~ Sugar Town (JP)
     Harvest Moon ~ Hero of Leaf Valley (EN)
 # Events
-<table style="undefined;table-layout: fixed; width: 1148px"><colgroup>
-<col style="width: 208px">
-<col style="width: 147px">
-<col style="width: 356px">
-<col style="width: 287px">
-<col style="width: 39px">
-<col style="width: 64px">
-<col style="width: 47px">
+<table style="undefined;table-layout: fixed; width: 1007px"><colgroup>
+<col style="width: 201px">
+<col style="width: 151px">
+<col style="width: 201px">
+<col style="width: 201px">
+<col style="width: 51px">
+<col style="width: 101px">
+<col style="width: 101px">
 </colgroup>
 <thead>
   <tr>
@@ -24,15 +24,6 @@
   </tr></thead>
 <tbody>
   <tr>
-    <td>The Rumoured Blue flower</td>
-    <td>In front of your house</td>
-    <td>Be friend with Lyla (20FP)</td>
-    <td></td>
-    <td>1</td>
-    <td>Spring</td>
-    <td>19-24</td>
-  </tr>
-  <tr>
     <td>Gina and Katie's Conversation</td>
     <td>Ronald's supermarket</td>
     <td>Be friend with Gina (20FP)</td>
@@ -42,6 +33,15 @@
     <td>12-17</td>
   </tr>
   <tr>
+    <td>The Rumoured Blue flower</td>
+    <td>In front of your house</td>
+    <td>Be friend with Lyla (20FP)</td>
+    <td></td>
+    <td>1</td>
+    <td>Spring</td>
+    <td>19-24</td>
+  </tr>
+  <tr>
     <td>Place to plant the seed</td>
     <td>In front of your house</td>
     <td>Lyla has 1 heart(30FP), sold more than 8 crops.</td>
@@ -49,6 +49,24 @@
     <td>1</td>
     <td>Summer</td>
     <td>2-6</td>
+  </tr>
+  <tr>
+    <td>Don't hurt the animal</td>
+    <td>In front of your house</td>
+    <td>Be friends with gwen (10FP)</td>
+    <td></td>
+    <td>1</td>
+    <td>Summer</td>
+    <td>9-13</td>
+  </tr>
+  <tr>
+    <td>Gina's consulations</td>
+    <td>In front of your house</td>
+    <td>Gina has at least 1 heart (25FP)</td>
+    <td>Choose [I see ] and you'll get +10FP with Gina</td>
+    <td>1</td>
+    <td>Summer</td>
+    <td>9-13</td>
   </tr>
   <tr>
     <td>Rumors about the Blue butterfly</td>
@@ -69,15 +87,6 @@
     <td>11-30</td>
   </tr>
   <tr>
-    <td>Don't hurt the animal</td>
-    <td>In front of your house</td>
-    <td>Be friends with gwen (10FP)</td>
-    <td></td>
-    <td>1</td>
-    <td>Summer</td>
-    <td>9-13</td>
-  </tr>
-  <tr>
     <td>The Treasure Map</td>
     <td>In front of your house</td>
     <td>Tim has 1 heart (30FP).</td>
@@ -94,15 +103,6 @@
     <td>1</td>
     <td>Summer</td>
     <td>26-31</td>
-  </tr>
-  <tr>
-    <td>Gina's consulations</td>
-    <td>In front of your house</td>
-    <td>Gina has at least 1 heart (25FP)</td>
-    <td>Choose [I see ] and you'll get +10FP with Gina</td>
-    <td>1</td>
-    <td>Summer</td>
-    <td>9-13</td>
   </tr>
   <tr>
     <td>Questioning the Priest</td>

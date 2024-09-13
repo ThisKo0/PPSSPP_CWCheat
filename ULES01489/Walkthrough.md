@@ -3,16 +3,7 @@
     Harvest Moon ~ Sugar Town (JP)
     Harvest Moon ~ Hero of Leaf Valley (EN)
 # Events
-<table style="undefined;table-layout: fixed; width: 1007px"><colgroup>
-<col style="width: 201px">
-<col style="width: 151px">
-<col style="width: 201px">
-<col style="width: 201px">
-<col style="width: 51px">
-<col style="width: 101px">
-<col style="width: 101px">
-</colgroup>
-<thead>
+<table><thead>
   <tr>
     <th>Title</th>
     <th>Place</th>
@@ -23,6 +14,15 @@
     <th>Day</th>
   </tr></thead>
 <tbody>
+  <tr>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td>        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>
+  </tr>
   <tr>
     <td>Gina and Katie's Conversation</td>
     <td>Ronald's supermarket</td>
@@ -45,7 +45,7 @@
     <td>Place to plant the seed</td>
     <td>In front of your house</td>
     <td>Lyla has 1 heart(30FP), sold more than 8 crops.</td>
-    <td>If you have planted the seed, it will eventually withered because the event requires it to be like that. You can buy the seed again at Lyla's shop. In this event, you'll (re)plant the seed in the H.G Spring, you need to water it everyday.</td>
+    <td>If you have planted the seed, it will eventually withered because the event requires it to be like that.<br>You can buy the seed again at Lyla's shop. <br>In this event, you'll (re)plant the seed in the H.G Spring, you need to water it everyday.</td>
     <td>1</td>
     <td>Summer</td>
     <td>2-6</td>
@@ -81,7 +81,7 @@
     <td>Be Optimistic</td>
     <td>H.G Spring.</td>
     <td>you must have planted the seed and waters it everyday</td>
-    <td>After this event you wont be able to buy the Blue Mist Flower seed anymore from Lyla's Flower Shop. The flower is wilted when you see this event, you can just remove it or leave it there until the next event.You dont have to water it anymore.</td>
+    <td>After this event you wont be able to buy the Blue Mist Flower seed anymore from Lyla's Flower Shop.<br>The flower is wilted when you see this event, you can just remove it or leave it there until the next event.<br>You dont have to water it anymore.</td>
     <td>1</td>
     <td>Summer</td>
     <td>11-30</td>
@@ -197,7 +197,7 @@
   <tr>
     <td>Bread Pledge</td>
     <td>In front of your house</td>
-    <td>Ronald has more than 1 heart(50FP), have shipped at least 64 crops</td>
+    <td>Ronald has more than 1 heart(50FP),<br>have shipped at least 64 crops</td>
     <td></td>
     <td>1</td>
     <td>Summer</td>
@@ -224,7 +224,7 @@
   <tr>
     <td>It ran away</td>
     <td>In front of your house</td>
-    <td>Gwen has 1 heart (15FP). Seen event Don't hurt the animal</td>
+    <td>Gwen has 1 heart (15FP).<br>Seen event Don't hurt the animal</td>
     <td></td>
     <td>1</td>
     <td>Autumn</td>
@@ -251,7 +251,7 @@
   <tr>
     <td>Gina and Dia's Fight.</td>
     <td>Clove Villa</td>
-    <td>Seen event The Silk Thread. Gina has hearts close to 2 (70FP)</td>
+    <td>Seen event The Silk Thread.<br>Gina has hearts close to 2 (70FP)</td>
     <td></td>
     <td>1</td>
     <td>Autumn</td>
@@ -287,7 +287,7 @@
   <tr>
     <td>Searching for the Recipe</td>
     <td>In front of your house</td>
-    <td>Be friend with Katie (30FP) and have at least 1 heart for each animals ( 30AAP).</td>
+    <td>Be friend with Katie (30FP) and <br>have at least 1 heart for each animals ( 30AAP).</td>
     <td>You can find the recipe at the white drawers in your house.<br><br>Key Item "Grandma's Recipe" is added to your inventory. <br><br>(I wonder why the recipe is in your house ? )</td>
     <td>1</td>
     <td>Autumn</td>
@@ -305,8 +305,8 @@
   <tr>
     <td>Collecting the Ingredients</td>
     <td>Sun Garden Cafe</td>
-    <td>Katie has 1 heart (40FP), and 2 Hearts for the animals (80AAP)</td>
-    <td>You're required to bring Golden Egg and Golden Milk. You have time to collect the ingredietns until summer 5,year 2.</td>
+    <td>Katie has 1 heart (40FP),<br>and 2 Hearts for the animals (80AAP)</td>
+    <td>You're required to bring Golden Egg and Golden Milk.<br>You have time to collect the ingredietns until summer 5,year 2.</td>
     <td>1</td>
     <td>Autumn</td>
     <td>13-27</td>
@@ -314,8 +314,8 @@
   <tr>
     <td>Ocarina Performance 1</td>
     <td>Maple Lake</td>
-    <td>You must have an ocarina. Aurellia has at least 1 heart (40FP)</td>
-    <td>You will proceed to the next event even if you played horribly. However the conversation dialogue changes.</td>
+    <td>You must have an ocarina.<br>Aurellia has at least 1 heart (40FP)</td>
+    <td>You will proceed to the next event even if you played horribly.<br>However the conversation dialogue changes.</td>
     <td>1</td>
     <td>Autumn</td>
     <td>7-11</td>
@@ -332,7 +332,7 @@
   <tr>
     <td>Woodie's Concern</td>
     <td>Maple Lake</td>
-    <td>Tuesday/Thursday only. After 10 Am. Be friends with Kurt &amp; Joe (30FP)</td>
+    <td>Tuesday/Thursday only. After 10 Am.<br>Be friends with Kurt &amp; Joe (30FP)</td>
     <td></td>
     <td></td>
     <td>Autumn</td>
@@ -377,7 +377,7 @@
   <tr>
     <td>Found the underground</td>
     <td>Maple Lake</td>
-    <td>Chester must have more than 1 heart (30FP). Seen event Suspicious Monument</td>
+    <td>Chester must have more than 1 heart (30FP).<br>Seen event Suspicious Monument</td>
     <td></td>
     <td></td>
     <td>Autumn</td>
